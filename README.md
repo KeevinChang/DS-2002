@@ -1,5 +1,5 @@
 # hello-world
-DS 2002 first repo
+DS 2002 repo
 
 making some edits to readme
 
