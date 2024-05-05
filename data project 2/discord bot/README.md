@@ -2,7 +2,7 @@
 
 ## Kevin Zhang (wfs7bk) and Albert Huang (kfa7fg)
 
-1. Create app on Discord Developer Interface, create a bot in the app and add its token to the .env file
+1. Create app on Discord Developer Interface, create a bot in the app and add its token to a .env file
 2. Invite bot to desired server through OAuth2 service
 3. Pip install dependencies (including openai==0.28) and include all included files in the same directory as main.py
   1. Create a .env file with a CHAT_KEY variable with Chat-GPT API key and BOT_TOKEN variable with bot token
